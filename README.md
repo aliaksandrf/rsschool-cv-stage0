@@ -1,1 +1,2 @@
-# rsschool-cv-stage0
+https://aliaksandrf.github.io/rsschool-cv/cv
+
